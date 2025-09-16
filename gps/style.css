@@ -1,0 +1,55 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    background: #f4f6fb;
+}
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    padding: 24px;
+}
+h1 {
+    text-align: center;
+    color: #2d3e50;
+}
+#searchBar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+#locationInput {
+    width: 300px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px 0 0 6px;
+    font-size: 16px;
+}
+#searchBtn, #trackBtn {
+    padding: 8px 18px;
+    border: none;
+    background: #4e8cff;
+    color: #fff;
+    border-radius: 0 6px 6px 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 2px;
+}
+#trackBtn {
+    background: #2ecc71;
+}
+#map {
+    height: 400px;
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 18px;
+}
+#locationDetails {
+    background: #f7faff;
+    border-radius: 8px;
+    padding: 16px;
+    color: #2d3e50;
+    font-size: 16px;
+}
