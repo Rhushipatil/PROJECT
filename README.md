@@ -1,12 +1,13 @@
 # PROJECT
-#The GPS Location Tracking System is a project designed to track and display the real-time location of a user/device using GPS technology. It helps monitor #movement, store location history, and visualize the data on a map interface.
+The GPS Location Tracking System is a project designed to track and display the real-time location of a user/device using GPS technology. It helps monitor
+movement, store location history, and visualize the data on a map interface.
 
-#This project can be used for:
+1)This project can be used for:
 
-#Vehicle tracking 🚗
+2)Vehicle tracking 🚗
 
-#Personal safety monitoring 🧑‍🤝‍🧑
+3)Personal safety monitoring 🧑‍🤝‍🧑
 
-#Logistics & delivery management 📦
+4)Logistics & delivery management 📦
 
-#IoT & smart devices 🌐
+5)IoT & smart devices 🌐
